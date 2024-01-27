@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Привет, Я Артур </h1>
-    <h3>Full Stack Dev. из России</h3>
+    <h3>Python Backend Dev. из России</h3>
 </div>
 
 <div id="socials" align="center">
@@ -8,22 +8,38 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+##
+
 ## О себе
-Я - разработчик Python с опытом в области Backend. Мои основные технологии - FastAPI и Django.
+Я - Python-разработчик, специализирующийся в области Backend. Мой стек технологий включает в себя:
 
-## Стек технологий
-- Python
-- FastAPI
-- Django
+- **Языки программирования:**
+  - Python
 
+- **Web-фреймворки:**
+  - FastAPI
+  - Django
+  - Django Rest Framework
+
+- **Базы данных:**
+  - PostgreSQL
+  - MySQL
+  - MS SQL
+  - SQLite
+
+- **Контейнеризация и оркестрация:**
+  - Docker
+  - Kubernetes
+
+- **Системы управления версиями:**
+  - Git
+  - GitHub
+    
 ## Проекты
 - [Проект 1](ссылка_на_проект_1): Краткое описание проекта 1.
 - [Проект 2](ссылка_на_проект_2): Краткое описание проекта 2.
 
 ## Связаться со мной
-- GitHub: [Ваш ник на GitHub](ссылка_на_ваш_профиль)
-- LinkedIn: [Ваш профиль LinkedIn](ссылка_на_ваш_профиль)
-- Twitter: [Ваш профиль Twitter](ссылка_на_ваш_профиль)
-
-Не стесняйтесь связаться со мной, если у вас есть вопросы или предложения по сотрудничеству!
+- GitHub: [ichiri0]([ссылка_на_ваш_профиль](https://github.com/ichiri0))
+- Telegram: [@whycryatwa](https://t.me/whycryatwa)
 
