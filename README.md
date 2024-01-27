@@ -1,5 +1,13 @@
-# Привет, я [Ваше Имя]
+<div id="header" align="center">
+    <h1>Привет, Я Артур </h1>
+    <h3>Full Stack Dev. из России</h3>
+</div>
 
+<div id="socials" align="center">
+  <a href="[telegram-url](https://t.me/whycryatwa)">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 ## О себе
 Я - разработчик Python с опытом в области Backend. Мои основные технологии - FastAPI и Django.
 
