@@ -37,7 +37,9 @@
     
 ## Проекты
 - [SfeduEvent](https://github.com/ichiri0/SfeduEventBack): Выполненное на 48-ч. хаккатоне проект, реализующий календарь мероприятий для вуза, чего ещё не было осуществленно.
-- [Проект 2](ссылка_на_проект_2): Краткое описание проекта 2.
+- [CookBook](https://github.com/ichiri0/TestTaskMirGovorit): Книга рецептов.
+- [Менеджер заметок FastAPI](https://github.com/ichiri0/TestFastAPI): Менеджер заметок на FastAPI.
+- [Менеджер заметок DjangoRestFramework](https://github.com/ichiri0/NotesManagerTT): Менеджер заметок на DjangoRestFramework.
 
 ## Связаться со мной
 - GitHub: [ichiri0]([ссылка_на_ваш_профиль](https://github.com/ichiri0))
