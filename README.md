@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Привет, Я Артур </h1>
-    <h3>Python Backend Dev. из России</h3>
+    <h3>Python Middle Backend Dev.</h3>
 </div>
 
 <div id="socials" align="center">
